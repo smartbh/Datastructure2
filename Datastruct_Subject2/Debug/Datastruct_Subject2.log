@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(39): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(43): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(69): warning C4133: '=': 'ListHeader *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(71): warning C4047: '함수': 'ListHeader *'의 간접 참조 수준이 'ListNode **'과(와) 다릅니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(71): warning C4024: 'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(81): warning C4047: '함수': 'ListHeader *'의 간접 참조 수준이 'ListNode **'과(와) 다릅니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\datastruct_subject2\main.c(81): warning C4024: 'insert_node_last': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Datastruct_Subject2.vcxproj -> C:\Users\pc\Desktop\대학자료\2학년\1학기\자료구조\자료구조 과제 2\no3\Debug\no3.exe
